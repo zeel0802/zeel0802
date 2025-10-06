@@ -15,10 +15,11 @@
     <img src="https://img.shields.io/badge/Email-005FF9.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 
-  <a href="[Resume.pdf](https://github.com/user-attachments/files/22729421/Resume.pdf)">
+  <a href="https://raw.githubusercontent.com/zeel0802/zeel0802/main/Zeel_Patel_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6B00.svg?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
