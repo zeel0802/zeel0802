@@ -14,7 +14,7 @@
   <a href="mailto:zeelpat82@outlook.com">
     <img src="https://img.shields.io/badge/Email-005FF9.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="https://docs.google.com/document/d/1ttWOttiUqodTiw-dYYtSwRtVHNalicYvno8EMBW86dQ/edit?usp=sharing">
+  <a href="/Zeel_Patel_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FF6B00.svg?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>
@@ -58,7 +58,6 @@ This was one of my first structured projects and helped me develop fundamental c
 - 🧠 Implemented object-oriented design for clean structure  
 - 🛡️ Focused on input validation to prevent logic flaws  
 - 🧪 Practiced debugging, flow control, and secure coding basics
-
 
 ---
 
