@@ -14,7 +14,8 @@
   <a href="mailto:zeelpat82@outlook.com">
     <img src="https://img.shields.io/badge/Email-005FF9.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="/Zeel_Patel_Resume.pdf">
+
+  <a href="[Resume.pdf](https://github.com/user-attachments/files/22729421/Resume.pdf)">
     <img src="https://img.shields.io/badge/Resume-FF6B00.svg?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>
