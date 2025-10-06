@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-005FF9.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/zeel0802/zeel0802/main/Zeel_Patel_Resume.pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/1qqcuM27V2cQLRqV7WsmspGkJtDLiHOllQKqBIzQYWw4/edit?usp=sharing" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Resume-FF6B00.svg?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>
